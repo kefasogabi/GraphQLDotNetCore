@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0TKRnSQj2uQideSvA2TWr/kqHmUgBavM9n8xofOg+JM=",
+  "Source": "GraphQLDotNetCore",
+  "BasePath": "_content/GraphQLDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
